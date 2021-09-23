@@ -9,7 +9,16 @@
       <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Sep 2021 22:54:54 +0800</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Sep 2021 23:36:24 +0800</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://examplesite.com/posts/second/</link>
+      <pubDate>Thu, 23 Sep 2021 23:36:24 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/second/</guid>
+      <description>AAAA</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://examplesite.com/posts/test/</link>
